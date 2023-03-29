@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color error_text
+color success_text
+color warning_text
+drawable ic_notification
+drawable ic_notification_connecting
+drawable ic_notification_warning
+plurals retry_in
+string error_assessment_failed
+string error_auth_failed
+string error_certificate_unavailable
+string error_generic
+string error_lookup_failed
+string error_password_missing
+string error_peer_auth_failed
+string error_unreachable
+string permanent_notification_description
+string permanent_notification_name
+string state_connected
+string state_connecting
+string state_disabled
+string state_disconnecting
